@@ -2117,7 +2117,7 @@ DOMAIN-SUFFIX,in.pomhz.com
 DOMAIN-SUFFIX,in.qqhpg.com
 DOMAIN-SUFFIX,in.qzkxt.com
 DOMAIN-SUFFIX,in1.feed.uu.cc
-DOMAIN-SUFFIX,in1.secure.uu.cc
+#DOMAIN-SUFFIX,in1.secure.uu.cc
 DOMAIN-SUFFIX,info.downsave.com
 DOMAIN-SUFFIX,info.gomlab.com
 DOMAIN-SUFFIX,info.yitsoftware.com
