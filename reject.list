@@ -1823,7 +1823,7 @@ DOMAIN-SUFFIX,dl.jianshunrui.com
 DOMAIN-SUFFIX,dl.nx5.com
 DOMAIN-SUFFIX,dl.sybspools.com
 DOMAIN-SUFFIX,dl.union.ijinshan.com
-DOMAIN-SUFFIX,dl.uu.cc
+#DOMAIN-SUFFIX,dl.uu.cc
 DOMAIN-SUFFIX,dl.youjia2016.com
 DOMAIN-SUFFIX,dm.aizhan.com
 DOMAIN-SUFFIX,dm.bytedance.com
