@@ -213,7 +213,6 @@ DOMAIN-SUFFIX,res.icast.cn
 DOMAIN-SUFFIX,rm.ra.icast.cn
 DOMAIN-SUFFIX,rmtx.ra.icast.cn
 DOMAIN-SUFFIX,rtb.adview.cn
-DOMAIN-SUFFIX,s.flipchina.cn
 DOMAIN-SUFFIX,s.xhsxgmt.cn
 DOMAIN-SUFFIX,sas816.ujikdd041o.cn
 DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn
@@ -241,7 +240,6 @@ DOMAIN-SUFFIX,ttqr58.cn
 DOMAIN-SUFFIX,u0.s.minisplat.cn
 DOMAIN-SUFFIX,u1.s.minisplat.cn
 DOMAIN-SUFFIX,u2.s.minisplat.cn
-DOMAIN-SUFFIX,ue.flipchina.cn
 DOMAIN-SUFFIX,uerzyr.cn
 DOMAIN-SUFFIX,union.dbba.cn
 DOMAIN-SUFFIX,v02u9.cn
@@ -279,6 +277,9 @@ DOMAIN-SUFFIX,yun.tuia.cn
 DOMAIN-SUFFIX,yunpifu.cn
 DOMAIN-SUFFIX,z.sora.yoyi.com.cn
 DOMAIN-SUFFIX,zhwnlapi.etouch.cn
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,testin.cn
+DOMAIN-SUFFIX,fraudmetrix.cn
 # 360.cn
 DOMAIN-SUFFIX,act.commercial.shouji.360.cn
 DOMAIN-SUFFIX,ad.dev.360.cn
@@ -577,7 +578,6 @@ DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,slog.sina.cn
 DOMAIN-SUFFIX,slog.sina.com.cn
 DOMAIN-SUFFIX,staticadm.leju.sina.com.cn
-DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,trends.mobile.sina.cn
 DOMAIN-SUFFIX,u1.img.mobile.sina.cn
 DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
@@ -658,6 +658,7 @@ DOMAIN-SUFFIX,tw.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,acookie.alimama.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
 DOMAIN-SUFFIX,aecpm.alicdn.com
 DOMAIN-SUFFIX,afp.alicdn.com
 DOMAIN-SUFFIX,afpeng.alimama.com
@@ -1792,7 +1793,6 @@ DOMAIN-SUFFIX,db2.fuz.cc
 DOMAIN-SUFFIX,dc.ads.linkedin.com
 DOMAIN-SUFFIX,dc.csdn.net
 DOMAIN-SUFFIX,dc.meitustat.com
-DOMAIN-SUFFIX,dcps.nuomi.com
 DOMAIN-SUFFIX,dd.dante2007.com
 DOMAIN-SUFFIX,dd.iaskgo.com
 DOMAIN-SUFFIX,dd713.bj.bcebos.com
@@ -2437,7 +2437,6 @@ DOMAIN-SUFFIX,openapi-news.meizu.com
 DOMAIN-SUFFIX,oppo.yidianzixun.com
 DOMAIN-SUFFIX,optaim.com
 DOMAIN-SUFFIX,optimix.asia
-DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,optimus.ipinyou.com
 DOMAIN-SUFFIX,osupdateservice.yunos.com
 DOMAIN-SUFFIX,otf.msn.com
